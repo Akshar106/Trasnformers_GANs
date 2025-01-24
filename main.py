@@ -56,7 +56,7 @@ VISIONCHAT_API_KEY = os.getenv("visionchat_api")
 #     api_key=API_KEY
 # )
 
-
+nltk.download('wordnet')
 
 
 ### Transformers
