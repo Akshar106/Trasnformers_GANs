@@ -111,8 +111,8 @@ def Language_Translation_using_Transformers():
             st.success("Translation Complete!")
             st.write("### Translated Text:")
             st.write(translated_text)
-            st.write("### Tokenized Text:")
-            st.write(tokenized_text)
+            # st.write("### Tokenized Text:")
+            # st.write(tokenized_text)
         else:
             st.error("Please enter some text to translate.")
 
