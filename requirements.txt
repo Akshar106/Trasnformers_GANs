@@ -1,7 +1,6 @@
 ﻿streamlit
 transformers
 torch
-google-generative-ai
 openai
 pytorch-pretrained-biggan
 numpy
