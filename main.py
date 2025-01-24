@@ -17,6 +17,7 @@ from dotenv import load_dotenv
 import os
 import openai
 import streamlit as st
+import nltk
 # import requests
 # import base64
 
