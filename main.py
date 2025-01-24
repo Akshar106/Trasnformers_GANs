@@ -12,7 +12,7 @@ import torch
 # from langchain.embeddings.openai import OpenAIEmbeddings  # Corrected import
 # from langchain.document_loaders import PyPDFLoader
 # from transformers import T5Tokenizer, T5ForConditionalGeneration 
-from langchain.chat_models import ChatOpenAI  # Use ChatOpenAI instead of ChatGoogleGenerativeAI
+#from langchain.chat_models import ChatOpenAI  # Use ChatOpenAI instead of ChatGoogleGenerativeAI
 from dotenv import load_dotenv
 import os
 import openai
